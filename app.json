@@ -1,0 +1,14 @@
+{
+    "name": "vplmesx",
+    "env": {
+        "PROTOCOL": {
+            "description": "choose",
+            "value": "vless"
+        },
+        "UUID": {
+            "description": "pass",
+            "value": "4d77fbebb90c422b9217d717136b4c71"        
+        }
+    },
+    "stack": "container"
+}
